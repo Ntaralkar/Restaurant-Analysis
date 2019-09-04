@@ -21,3 +21,6 @@ store_id_relation.csv: connects the air and hpg ids
 date_info.csv: essentially flags the Japanese holidays.
 
 sample_submission.csv: serves as the test set. The id is formed by combining the air id with the visit date.
+
+I have created a shiny R application which demonstrates restaurant visitors and reservation analysis. Please find below Shiny R app link to access it: https://nikhil91.shinyapps.io/Restaurant_analysis/
+
